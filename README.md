@@ -1,5 +1,10 @@
 # The Googly: A Global Donation Platform
 
+**The official website for The Googly is currently under development.
+You can check out the demo link here:**
+👉 [The googly visit](https://thegogly.github.io/)
+
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Our Core Principles](#our-core-principles)
